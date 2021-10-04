@@ -1,2 +1,2 @@
-# dimas-
-tugas pertama perulangan
+# tugas pertama
+
